@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushneupane312&label=Profile%20views&color=0e75b6&style=flat" alt="ayushneupane312" /> </p>
 
-- 🔭 I’m currently working on **Software Development**
+- 🔭 I’m currently working on **Software Development , Devops Enginner**
 
 - 👯 I’m looking to collaborate on **open-source collaboration**
 
